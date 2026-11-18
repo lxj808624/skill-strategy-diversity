@@ -1,0 +1,19 @@
+{
+  "top_is_candidate": "C030",
+  "top_is_sharpe": 0.9434655200158292,
+  "top_oos_sharpe": -0.36653292010557814,
+  "top_oos_pctile_in_pool": 0.475,
+  "pool_oos_sharpe_median": -0.3360680786579625,
+  "A_is": 0.9708293647226587,
+  "B_is": 1.0871669291788912,
+  "A_oos": -0.538273771377569,
+  "B_oos": -0.794176097467429,
+  "A_maxcorr": 0.9547385212549112,
+  "B_maxcorr": 0.6786727356677797,
+  "A_effn": 2,
+  "B_effn": 10,
+  "n_pool": 120,
+  "n_dates": 1899,
+  "rolling_n": 14,
+  "cost": "2bp per side on turnover, signal t -> ret t+1"
+}
