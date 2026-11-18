@@ -1,0 +1,10 @@
+{
+  "n_pool": 120,
+  "tau": 0.7,
+  "n_selected_A": 10,
+  "n_selected_B": 10,
+  "n_eff_A": 120,
+  "n_eff_B": 10,
+  "mean_pair_joint_A": 0.47674640279972647,
+  "max_pair_joint_A": 0.9579242755758632
+}
